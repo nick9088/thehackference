@@ -1,0 +1,14 @@
+body {
+       background-color: black;
+}
+h1 {
+	color: blue;
+	font-family: Bahnschrift;
+}
+b {
+	color: white;
+}
+html, body {
+    cursor: url("cursor.cur"), default;
+    /* just change the cursor.ico path to your location */
+}
